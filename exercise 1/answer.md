@@ -7,8 +7,8 @@
 <html lang=en>
 
 ## 3. Why did you choose `<ul>` for one list and `<ol>` for the other?
-<ul> mean unordered list use it when the order is not important. <ol> means ordered list which mean it was use when order is important
-
+<ul> mean unordered list use it when the order is not important. 
+<ol> means ordered list which mean it was use when order is important
 ## 4. What does the alt text of your image tell the reader?
 describing the image given
 
