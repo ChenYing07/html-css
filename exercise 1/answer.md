@@ -14,3 +14,4 @@
 describing the image given
 
 ## 5. Which two attribute values connect your label and your input?
+the label tells what the input does
