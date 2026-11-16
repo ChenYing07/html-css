@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #000000;
+  line-height: 1.5;
+}
+h2 {
+  color: #111827;
+}
+
+.feature-card {
+    background-color: blanchedalmond;
+    padding: 22px;
+    border-radius: 8px;
+}
+
+.features p {
+    color: #5e3200;
+}
+
+.feature-card h3{
+    color: #000000;
+}
+.site-nav {
+    padding: 10px;color: #5e3200;
+    background-color: rgb(242, 255, 185);
+}
+.site-nav > a {
+    margin-right: 20px;
+  color: #942f00;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.hero,
+.features,
+.resources,
+.site-footer{
+     max-width: 1000px;
+     margin: 40px auto;
+     padding: 0 24px
+}
+
+.hero{
+    padding-top: 30px;
+}
+
+.features{
+    background-color: #66b5ff;
+    padding: 20px;
+    border: 1px solid #3cd8ff;
+    border-radius: 18px;
+    margin-top: 10px;
+}
+
+.eyebrow{
+    color: #942f00;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.2cm;
+}
+
+.card-grid{
+    margin: 24px;
+}
+
+.button-link{
+    display: inline-block;
+    margin-top: 12px;
+    padding: 10px 14px;
+    background-color: #3b82f6;
+    color: white;
+    border-radius: 999px;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.features .button-link{
+    background-color: #3cd8ff;
+}
+.button-link:hover,
+.button-link:focus{
+     background-color: #3d91b3;
+     outline: 3px solid #3a9ecc;
+     outline-offset: 3px;
+}
+
+a{
+    color: #3b82f6;
+    background-color: transparent;
+}
