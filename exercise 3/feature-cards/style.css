@@ -30,7 +30,6 @@ h2 {
     margin-right: 20px;
   color: #942f00;
   font-weight: 800;
-  text-decoration: none;
 }
 
 .hero,
@@ -54,6 +53,10 @@ h2 {
     margin-top: 10px;
 }
 
+.feature-card{
+    margin-top: 10px;
+}
+
 .eyebrow{
     color: #942f00;
     font-weight: 600;
@@ -72,7 +75,7 @@ h2 {
     background-color: #3b82f6;
     color: white;
     border-radius: 999px;
-    text-decoration: none;
+    text-decoration: underline;
     font-weight: 700;
 }
 
@@ -89,4 +92,8 @@ h2 {
 a{
     color: #3b82f6;
     background-color: transparent;
+}
+
+.button-link:hover{
+    color: #3b82f6;
 }
